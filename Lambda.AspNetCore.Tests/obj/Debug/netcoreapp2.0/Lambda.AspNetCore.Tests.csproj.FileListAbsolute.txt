@@ -1,0 +1,16 @@
+C:\GitHub\idoban\BizNewsFeed\Lambda.AspNetCore\Lambda.AspNetCore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\GitHub\idoban\BizNewsFeed\Lambda.AspNetCore\Lambda.AspNetCore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\GitHub\idoban\BizNewsFeed\Lambda.AspNetCore\Lambda.AspNetCore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\GitHub\idoban\BizNewsFeed\Lambda.AspNetCore\Lambda.AspNetCore.Tests\bin\Debug\netcoreapp2.0\Lambda.AspNetCore.Tests.deps.json
+C:\GitHub\idoban\BizNewsFeed\Lambda.AspNetCore\Lambda.AspNetCore.Tests\bin\Debug\netcoreapp2.0\Lambda.AspNetCore.Tests.runtimeconfig.json
+C:\GitHub\idoban\BizNewsFeed\Lambda.AspNetCore\Lambda.AspNetCore.Tests\bin\Debug\netcoreapp2.0\Lambda.AspNetCore.Tests.runtimeconfig.dev.json
+C:\GitHub\idoban\BizNewsFeed\Lambda.AspNetCore\Lambda.AspNetCore.Tests\bin\Debug\netcoreapp2.0\Lambda.AspNetCore.Tests.dll
+C:\GitHub\idoban\BizNewsFeed\Lambda.AspNetCore\Lambda.AspNetCore.Tests\bin\Debug\netcoreapp2.0\Lambda.AspNetCore.Tests.pdb
+C:\GitHub\idoban\BizNewsFeed\Lambda.AspNetCore\Lambda.AspNetCore.Tests\bin\Debug\netcoreapp2.0\Lambda.AspNetCore.dll
+C:\GitHub\idoban\BizNewsFeed\Lambda.AspNetCore\Lambda.AspNetCore.Tests\bin\Debug\netcoreapp2.0\Lambda.AspNetCore.pdb
+C:\GitHub\idoban\BizNewsFeed\Lambda.AspNetCore\Lambda.AspNetCore.Tests\obj\Debug\netcoreapp2.0\Lambda.AspNetCore.Tests.csprojResolveAssemblyReference.cache
+C:\GitHub\idoban\BizNewsFeed\Lambda.AspNetCore\Lambda.AspNetCore.Tests\obj\Debug\netcoreapp2.0\Lambda.AspNetCore.Tests.csproj.CoreCompileInputs.cache
+C:\GitHub\idoban\BizNewsFeed\Lambda.AspNetCore\Lambda.AspNetCore.Tests\obj\Debug\netcoreapp2.0\Lambda.AspNetCore.Tests.AssemblyInfoInputs.cache
+C:\GitHub\idoban\BizNewsFeed\Lambda.AspNetCore\Lambda.AspNetCore.Tests\obj\Debug\netcoreapp2.0\Lambda.AspNetCore.Tests.AssemblyInfo.cs
+C:\GitHub\idoban\BizNewsFeed\Lambda.AspNetCore\Lambda.AspNetCore.Tests\obj\Debug\netcoreapp2.0\Lambda.AspNetCore.Tests.dll
+C:\GitHub\idoban\BizNewsFeed\Lambda.AspNetCore\Lambda.AspNetCore.Tests\obj\Debug\netcoreapp2.0\Lambda.AspNetCore.Tests.pdb
