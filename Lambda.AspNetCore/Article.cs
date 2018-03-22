@@ -13,5 +13,7 @@ namespace Lambda.AspNetCore
 
 		public string urlToImage { get; set; }
 		public DateTime publishedAt { get; set; }
+
+        public string category { get; set; }
 	}
 }
